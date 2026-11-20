@@ -102,7 +102,7 @@
       <value>Основание</value>
     </synonym>
     <type>
-      <types>DocumentRef.ЗаказПокупателя</types>
+      <types>DocumentRef.РеализацияТоваровУслуг</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
